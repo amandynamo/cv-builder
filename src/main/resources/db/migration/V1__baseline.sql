@@ -1,0 +1,1 @@
+-- Baseline migration: schema managed entirely by Flyway
